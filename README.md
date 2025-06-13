@@ -1,2 +1,2 @@
 # food-order-system
- Food order system.Its a capstone project
+ Food order system using PHP, HTML, CSS and MySQL
